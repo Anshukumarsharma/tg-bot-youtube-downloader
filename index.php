@@ -15,7 +15,7 @@ $y = new Youtube();
 
 
 /**
- * download a video by video Id
+ * download a video by video I
  */
 $tg->cmd('vid:<<:any>>', function ($video_id, $option) use ($tg, $y, $message) {
 
